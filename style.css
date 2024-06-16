@@ -1,0 +1,186 @@
+body{
+    color:black;
+    text-align:center;
+    font-family:Roboto;
+    background-color:#e7e7e7;
+}
+h1{
+    text-align:center;
+}
+#maintext2{
+    text-align:center;
+    font-weight:bold;
+    margin-top:1em;
+    color:#5AB2FF;
+}
+#maintext{
+    text-align:center;
+    font-weight:bold;
+    margin-top:5em;
+    color:#5AB2FF;
+}
+.butchoose{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:2em 8em 2em 8em;
+margin-top:3em;
+font-size:2em;
+font-weight:bold;
+color:#5AB2FF;
+}
+a{
+    border:none;
+    list-style:none;
+    color:#A0DEFF;
+    text-decoration: none;
+    text-align:center;
+}
+.butchoose:hover{
+    background-color:#5AB2FF;
+    color:#e7e7e7;
+}
+#secondtext{
+    margin-top:1em;
+    text-align:center;
+}
+.workerbut{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+margin-top:3em;
+font-size:1.5em;
+font-weight:bold;
+color:#5AB2FF;
+}
+.workerbut:hover{
+    color:#e7e7e7;
+background-color:#5AB2FF;
+}
+#login{
+   
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:#5AB2FF;
+margin:auto;
+color:black;
+
+}
+#pass{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#workerform{
+    margin-top:10em;
+}
+label{
+    font-weight:bold;
+}
+#guestLogin{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:#5AB2FF;
+margin:auto;
+color:black;
+}
+#guestPass{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#name{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#lastName{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#guestPesel{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#guestPhoneNumber{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+width:10em;
+font-size:1.5em;
+font-weight:bold;
+color:black;
+margin:auto;
+}
+#reserveButton{
+    text-align:center !important;
+    border:2px solid #5AB2FF;
+    border-radius:4em;
+background-color:rgba(0,0,0,0);
+padding:0.5em 2em 0.5em 2em;
+margin-top:3em;
+font-size:1.5em;
+font-weight:bold;
+color:#5AB2FF;
+}
+#reserveButton:hover{
+    color:#e7e7e7;
+    background-color:#5AB2FF;
+}
+#email{
+    text-align:center;
+}
